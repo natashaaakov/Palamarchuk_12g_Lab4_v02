@@ -1,0 +1,47 @@
+body {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 30px;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    padding: 0;
+    margin: 0 0 10px 0;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+.input-group label {
+    margin-right: 10px;
+}
+
+input {
+    font-size: 20px;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-around;
+}
+
+.calculatebtn {
+    height: 116px;
+    width: 150px;
+    font-size: 20px;
+}
+
+.result {
+    margin-top: 10px;
+}

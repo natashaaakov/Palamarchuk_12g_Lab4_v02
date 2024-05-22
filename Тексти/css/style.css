@@ -1,0 +1,34 @@
+body {
+    background-color: #FFFFE0; /* жовтий фон */
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: 50px auto;
+    width: 80%;
+    max-width: 800px;
+    text-align: center;
+}
+
+.text-area {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 10px;
+    resize: none; /* Заборона зміни розмірів */
+}
+
+button {
+    background-color: #4CAF50; /* Зелений колір кнопки */
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.text-info {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #333; /* Темний колір тексту */
+}
